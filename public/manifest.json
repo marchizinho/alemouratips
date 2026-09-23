@@ -1,0 +1,16 @@
+{
+  "name": "ALEMOURA Tips",
+  "short_name": "ALEMOURA",
+  "description": "Acesse todos os links oficiais da ALEMOURA Tips em um só lugar.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#00120D",
+  "theme_color": "#00120D",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
