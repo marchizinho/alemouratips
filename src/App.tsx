@@ -28,7 +28,7 @@ export default function App() {
             </div>
           </a>
 
-          <a className="btn btn-telegram" href="https://t.me/+lIwPKeJGmk5kMGMx" target="_blank" rel="noopener noreferrer">
+          <a className="btn btn-telegram" href="https://t.me/+Ji9nUual2LJmMDE5" target="_blank" rel="noopener noreferrer">
             <div className="btn-left">
               <span className="btn-icon">✈️</span>
               <div className="btn-info">
