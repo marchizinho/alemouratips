@@ -5,16 +5,16 @@ export default function App() {
 
   return (
     <div className="page-wrapper">
-      <img src="/logo.jpeg" alt="PKTips Logo" className="logo-img" />
+      <img src="/logo.png" alt="ALEMOURA Tips Logo" className="logo-img" />
 
-      <main className="panel" aria-label="Links oficiais da PKTips">
+      <main className="panel" aria-label="Links oficiais da ALEMOURA Tips">
         <section className="brand">
-          <h1>PKTips</h1>
+          <h1>ALEMOURA Tips</h1>
           <p className="subtitle">Aposta Esportiva • Links Oficiais</p>
         </section>
 
         <section className="links" aria-label="Links principais">
-          <a className="btn btn-vip" href="https://pay.hub.la/E6C33fo1Tx4LPeVxOMx4" target="_blank" rel="noopener noreferrer">
+          <a className="btn btn-vip" href="https://pay.hub.la/ywXFtk22i37lqjVmNzvf" target="_blank" rel="noopener noreferrer">
             <div className="btn-left">
               <span className="btn-icon">👑</span>
               <div className="btn-info">
@@ -23,12 +23,12 @@ export default function App() {
               </div>
             </div>
             <div className="btn-right">
-              <span className="btn-price">R$ 30</span>
+              <span className="btn-price">Assine agora</span>
               <span className="btn-arrow">→</span>
             </div>
           </a>
 
-          <a className="btn btn-telegram" href="https://t.me/+VVgaadfqISEwNmFh" target="_blank" rel="noopener noreferrer">
+          <a className="btn btn-telegram" href="https://t.me/+lIwPKeJGmk5kMGMx" target="_blank" rel="noopener noreferrer">
             <div className="btn-left">
               <span className="btn-icon">✈️</span>
               <div className="btn-info">
@@ -39,7 +39,7 @@ export default function App() {
             <span className="btn-arrow">→</span>
           </a>
 
-          <a className="btn btn-suporte" href="https://t.me/pktipsuporte" target="_blank" rel="noopener noreferrer">
+          <a className="btn btn-suporte" href="https://t.me/tipssuporte" target="_blank" rel="noopener noreferrer">
             <div className="btn-left">
               <span className="btn-icon">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="22" height="22">
@@ -55,15 +55,15 @@ export default function App() {
           </a>
         </section>
 
-        <footer>© {currentYear} PKTips. Todos os direitos reservados.</footer>
+        <footer>© {currentYear} ALEMOURA Tips. Todos os direitos reservados.</footer>
       </main>
 
       <a
         className="insta-float"
-        href="https://www.instagram.com/pktipss/"
+        href="https://www.instagram.com/ale_tipsmoura"
         target="_blank"
         rel="noopener noreferrer"
-        aria-label="Instagram @pktipss"
+        aria-label="Instagram @ale_tipsmoura"
       >
         <div className="insta-icon">
           <svg viewBox="0 0 24 24" fill="white">
@@ -72,7 +72,7 @@ export default function App() {
         </div>
         <div className="insta-info">
           <span className="insta-label">Instagram</span>
-          <span className="insta-handle">@pktipss</span>
+          <span className="insta-handle">@ale_tipsmoura</span>
         </div>
       </a>
     </div>
